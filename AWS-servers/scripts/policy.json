@@ -1,0 +1,4 @@
+{ "logAnalytics_1": 
+    { "value": "/subscriptions/your subscription/resourcegroups/Arc-AWS-Demo/providers/microsoft.operationalinsights/workspaces/Arc-servers"
+    }
+}
